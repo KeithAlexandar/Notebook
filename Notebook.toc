@@ -1,0 +1,290 @@
+\contentsline {section}{\numberline {1}微积分基础}{8}%
+\contentsline {subsection}{\numberline {1.1}入门}{8}%
+\contentsline {subsubsection}{\numberline {1.1.1}入门一只脚：圆的面积}{8}%
+\contentsline {subsubsection}{\numberline {1.1.2}入门另一只脚：函数的面积}{8}%
+\contentsline {subsection}{\numberline {1.2}导数}{9}%
+\contentsline {subsubsection}{\numberline {1.2.1}导数入门：汽车的路程与速度}{9}%
+\contentsline {subsubsection}{\numberline {1.2.2}常见误区}{10}%
+\contentsline {subsection}{\numberline {1.3}用几何来推导}{10}%
+\contentsline {subsubsection}{\numberline {1.3.1}$f(x) = x^2$的导数$\frac {df}{dx}$}{10}%
+\contentsline {subsubsection}{\numberline {1.3.2}$f(x) = x^3$的导数$\frac {df}{dx}$}{10}%
+\contentsline {subsubsection}{\numberline {1.3.3}$f(x) = \frac {1}{x}$的导数}{11}%
+\contentsline {subsubsection}{\numberline {1.3.4}$\sqrt {x}$的导数}{12}%
+\contentsline {subsubsection}{\numberline {1.3.5}$\qopname \relax o{sin}(x)$的导数}{12}%
+\contentsline {subsection}{\numberline {1.4}直观理解链式法则和乘积法则}{13}%
+\contentsline {subsubsection}{\numberline {1.4.1}加法法则}{13}%
+\contentsline {paragraph}{内容}{13}%
+\contentsline {paragraph}{直观理解}{13}%
+\contentsline {subsubsection}{\numberline {1.4.2}乘法法则}{13}%
+\contentsline {paragraph}{内容}{13}%
+\contentsline {paragraph}{直观理解：面积法}{13}%
+\contentsline {subsubsection}{\numberline {1.4.3}函数复合}{14}%
+\contentsline {paragraph}{内容}{14}%
+\contentsline {paragraph}{直观理解：数轴法}{14}%
+\contentsline {subsection}{\numberline {1.5}指数函数求导$M(t) = n^t$}{14}%
+\contentsline {subsubsection}{\numberline {1.5.1}$e$的定义过程}{14}%
+\contentsline {subsubsection}{\numberline {1.5.2}内容}{15}%
+\contentsline {subsubsection}{\numberline {1.5.3}推导过程}{15}%
+\contentsline {subsection}{\numberline {1.6}隐函数求导}{15}%
+\contentsline {subsubsection}{\numberline {1.6.1}内容}{15}%
+\contentsline {subsubsection}{\numberline {1.6.2}推导过程}{15}%
+\contentsline {paragraph}{$x^2+y^2=5^2$的导数}{15}%
+\contentsline {paragraph}{梯子问题}{16}%
+\contentsline {paragraph}{$\qopname \relax o{sin}(x)y^2 = x$的导数}{16}%
+\contentsline {paragraph}{利用隐函数求导法则求函数导数}{16}%
+\contentsline {subparagraph}{求$y=\qopname \relax o{ln}(x)导数$}{17}%
+\contentsline {subsection}{\numberline {1.7}极限}{17}%
+\contentsline {subsubsection}{\numberline {1.7.1}导数的正式定义}{17}%
+\contentsline {subsubsection}{\numberline {1.7.2}极限的($\epsilon ,\delta $)定义}{17}%
+\contentsline {subsubsection}{\numberline {1.7.3}洛必达法则}{17}%
+\contentsline {paragraph}{关键}{17}%
+\contentsline {paragraph}{推导}{17}%
+\contentsline {paragraph}{内容}{18}%
+\contentsline {subsection}{\numberline {1.8}积分与微积分基本定理}{18}%
+\contentsline {subsubsection}{\numberline {1.8.1}推导}{18}%
+\contentsline {subsubsection}{\numberline {1.8.2}内容}{19}%
+\contentsline {subsection}{\numberline {1.9}面积与斜率的关系}{19}%
+\contentsline {subsubsection}{\numberline {1.9.1}求$f(x) = \qopname \relax o{sin}(x)$在$(0,\pi )$上的平均值}{20}%
+\contentsline {subsubsection}{\numberline {1.9.2}意义}{20}%
+\contentsline {paragraph}{原因}{20}%
+\contentsline {subsection}{\numberline {1.10}高阶导数}{20}%
+\contentsline {subsubsection}{\numberline {1.10.1}表示}{20}%
+\contentsline {subsubsection}{\numberline {1.10.2}意义}{20}%
+\contentsline {subsection}{\numberline {1.11}泰勒级数}{21}%
+\contentsline {subsubsection}{\numberline {1.11.1}作用}{21}%
+\contentsline {subsubsection}{\numberline {1.11.2}代数推导过程}{21}%
+\contentsline {subsubsection}{\numberline {1.11.3}几何推导二次项意义}{21}%
+\contentsline {section}{\numberline {2}线性代数基础}{23}%
+\contentsline {subsection}{\numberline {2.1}向量是什么}{23}%
+\contentsline {subsection}{\numberline {2.2}向量加法与数乘的理解}{23}%
+\contentsline {subsubsection}{\numberline {2.2.1}向量}{23}%
+\contentsline {subsubsection}{\numberline {2.2.2}向量加法}{23}%
+\contentsline {paragraph}{代数定义}{23}%
+\contentsline {paragraph}{几何定义}{23}%
+\contentsline {subparagraph}{理解}{23}%
+\contentsline {subsubsection}{\numberline {2.2.3}数乘向量}{24}%
+\contentsline {paragraph}{内容}{24}%
+\contentsline {subsection}{\numberline {2.3}线性组合，张成的向量与基}{24}%
+\contentsline {subsubsection}{\numberline {2.3.1}基向量}{24}%
+\contentsline {subsubsection}{\numberline {2.3.2}选择不同的基向量}{24}%
+\contentsline {subsubsection}{\numberline {2.3.3}线性组合}{24}%
+\contentsline {paragraph}{定义}{24}%
+\contentsline {paragraph}{线性相关}{24}%
+\contentsline {paragraph}{线性无关}{24}%
+\contentsline {subsubsection}{\numberline {2.3.4}向量空间}{24}%
+\contentsline {paragraph}{另一个角度理解线性相关}{24}%
+\contentsline {subsection}{\numberline {2.4}矩阵与线性变换}{25}%
+\contentsline {subsubsection}{\numberline {2.4.1}线性变换}{25}%
+\contentsline {paragraph}{线性}{25}%
+\contentsline {paragraph}{变换}{25}%
+\contentsline {paragraph}{性质}{25}%
+\contentsline {paragraph}{例子}{25}%
+\contentsline {paragraph}{推广}{26}%
+\contentsline {subsubsection}{\numberline {2.4.2}矩阵}{26}%
+\contentsline {paragraph}{推导}{26}%
+\contentsline {subsubsection}{\numberline {2.4.3}矩阵乘法}{26}%
+\contentsline {paragraph}{推导}{26}%
+\contentsline {paragraph}{定义}{26}%
+\contentsline {subsection}{\numberline {2.5}矩阵乘法与线性变换组合}{26}%
+\contentsline {subsubsection}{\numberline {2.5.1}矩阵乘法}{26}%
+\contentsline {paragraph}{推导}{26}%
+\contentsline {paragraph}{例子}{27}%
+\contentsline {paragraph}{内容}{27}%
+\contentsline {paragraph}{运算律}{27}%
+\contentsline {subparagraph}{交换律：不存在}{27}%
+\contentsline {subparagraph}{结合律：存在}{27}%
+\contentsline {subsection}{\numberline {2.6}行列式}{27}%
+\contentsline {subsubsection}{\numberline {2.6.1}定义}{28}%
+\contentsline {subsection}{\numberline {2.7}逆矩阵、列空间和零空间}{28}%
+\contentsline {subsection}{\numberline {2.8}矩阵的用途}{28}%
+\contentsline {paragraph}{意义}{28}%
+\contentsline {subsubsection}{\numberline {2.8.1}逆矩阵}{28}%
+\contentsline {paragraph}{前提}{28}%
+\contentsline {paragraph}{作用}{28}%
+\contentsline {paragraph}{形式}{28}%
+\contentsline {paragraph}{求法}{29}%
+\contentsline {subsubsection}{\numberline {2.8.2}秩}{29}%
+\contentsline {paragraph}{意义}{29}%
+\contentsline {subsubsection}{\numberline {2.8.3}矩阵的列空间}{29}%
+\contentsline {subsubsection}{\numberline {2.8.4}零空间（核）}{29}%
+\contentsline {subsection}{\numberline {2.9}点积与对偶性}{29}%
+\contentsline {subsubsection}{\numberline {2.9.1}点积}{29}%
+\contentsline {paragraph}{标准看法}{29}%
+\contentsline {paragraph}{几何意义}{29}%
+\contentsline {paragraph}{对偶性}{29}%
+\contentsline {subparagraph}{为什么向量的点积和其向量的顺序无关？}{29}%
+\contentsline {subparagraph}{为什么点积的几何意义和其计算方式是有关系的呢？}{30}%
+\contentsline {subsection}{\numberline {2.10}叉积的标准介绍}{31}%
+\contentsline {subsubsection}{\numberline {2.10.1}导入}{31}%
+\contentsline {subsubsection}{\numberline {2.10.2}计算方法}{31}%
+\contentsline {subsubsection}{\numberline {2.10.3}实际定义}{31}%
+\contentsline {subsubsection}{\numberline {2.10.4}几何解释}{31}%
+\contentsline {subsection}{\numberline {2.11}特征向量与特征值}{32}%
+\contentsline {subsubsection}{\numberline {2.11.1}几何意义}{32}%
+\contentsline {paragraph}{特征向量}{32}%
+\contentsline {paragraph}{特征值}{32}%
+\contentsline {subsubsection}{\numberline {2.11.2}计算思想}{32}%
+\contentsline {subsubsection}{\numberline {2.11.3}特征基}{33}%
+\contentsline {paragraph}{计算特征基}{33}%
+\contentsline {subsection}{\numberline {2.12}抽象向量空间}{33}%
+\contentsline {subsubsection}{\numberline {2.12.1}用矩阵计算导数}{33}%
+\contentsline {section}{\numberline {3}机器学习}{34}%
+\contentsline {subsection}{\numberline {3.1}学习方式分类}{34}%
+\contentsline {subsection}{\numberline {3.2}监督学习的步骤}{35}%
+\contentsline {subsection}{\numberline {3.3}误差、偏差和方差的区别和联系}{37}%
+\contentsline {subsubsection}{\numberline {3.3.1}误差(error)}{37}%
+\contentsline {subsubsection}{\numberline {3.3.2}噪声(Noise)}{37}%
+\contentsline {subsubsection}{\numberline {3.3.3}偏差(Bias)}{37}%
+\contentsline {subsubsection}{\numberline {3.3.4}方差(Variance)}{37}%
+\contentsline {subsection}{\numberline {3.4}损失函数}{38}%
+\contentsline {subsubsection}{\numberline {3.4.1}常见的损失函数}{38}%
+\contentsline {paragraph}{0-1损失函数}{38}%
+\contentsline {paragraph}{绝对值损失函数}{38}%
+\contentsline {paragraph}{平方损失函数}{39}%
+\contentsline {paragraph}{对数损失函数}{39}%
+\contentsline {paragraph}{指数损失函数}{39}%
+\contentsline {paragraph}{Hinge损失函数}{39}%
+\contentsline {subsection}{\numberline {3.5}代价函数}{39}%
+\contentsline {subsubsection}{\numberline {3.5.1}为什么需要代价函数}{39}%
+\contentsline {subsubsection}{\numberline {3.5.2}代价函数作用原理}{39}%
+\contentsline {subsubsection}{\numberline {3.5.3}代价函数一定要非负吗？}{40}%
+\contentsline {subsubsection}{\numberline {3.5.4}常见的代价函数}{40}%
+\contentsline {paragraph}{二次代价函数(quadratic cost)}{40}%
+\contentsline {paragraph}{交叉熵代价函数(cross-entropy)}{41}%
+\contentsline {subparagraph}{将交叉熵看做是代价函数的两点原因}{41}%
+\contentsline {paragraph}{对数似然代价函数(log-likelihood cost)}{41}%
+\contentsline {subsubsection}{\numberline {3.5.5}为什么用交叉熵代替二次代价函数}{42}%
+\contentsline {paragraph}{为什么不用二次方代价函数}{42}%
+\contentsline {paragraph}{为什么要用交叉熵}{42}%
+\contentsline {section}{\numberline {4}神经网络}{43}%
+\contentsline {subsection}{\numberline {4.1}什么是神经网络}{43}%
+\contentsline {subsection}{\numberline {4.2}为什么要用神经网络}{43}%
+\contentsline {subsection}{\numberline {4.3}神经网络怎么训练}{43}%
+\contentsline {subsubsection}{\numberline {4.3.1}成本函数的建立}{43}%
+\contentsline {subsubsection}{\numberline {4.3.2}多元分类MLP的逻辑成本函数}{44}%
+\contentsline {subsubsection}{\numberline {4.3.3}反向传播算法}{45}%
+\contentsline {paragraph}{为什么不用正向传播算法？}{45}%
+\contentsline {paragraph}{适用范围}{45}%
+\contentsline {paragraph}{关键思想}{45}%
+\contentsline {paragraph}{神经网络组成}{45}%
+\contentsline {paragraph}{输出}{46}%
+\contentsline {paragraph}{优化目标：均方误差}{46}%
+\contentsline {paragraph}{激活函数}{46}%
+\contentsline {subsubsection}{\numberline {4.3.4}参数更新方法（以隐层到输出层的连接权$w_{hj}$为例）}{46}%
+\contentsline {paragraph}{策略：梯度下降}{46}%
+\contentsline {paragraph}{一句话方法}{46}%
+\contentsline {paragraph}{均方误差对权重求导的过程}{46}%
+\contentsline {subparagraph}{总目标}{46}%
+\contentsline {subparagraph}{推导过程}{46}%
+\contentsline {paragraph}{结果分析}{48}%
+\contentsline {subparagraph}{$\varDelta w_{hj} = \eta \pmb g_jb_h$ }{48}%
+\contentsline {subparagraph}{$\varDelta \theta _j = -\eta \pmb g_j$}{48}%
+\contentsline {subparagraph}{$\varDelta v_{ih} = \eta \pmb e_hx_i$}{48}%
+\contentsline {subparagraph}{$\varDelta \theta _j = -\eta \pmb e_h$}{48}%
+\contentsline {subsubsection}{\numberline {4.3.5}算法流程}{48}%
+\contentsline {paragraph}{输入}{48}%
+\contentsline {paragraph}{迭代}{48}%
+\contentsline {paragraph}{判断当前的累积误差是否已经足够小}{48}%
+\contentsline {subsubsection}{\numberline {4.3.6}算法分类}{49}%
+\contentsline {paragraph}{标准BP算法}{49}%
+\contentsline {paragraph}{累计BP算法}{49}%
+\contentsline {subsubsection}{\numberline {4.3.7}过拟合针对}{49}%
+\contentsline {paragraph}{早停}{49}%
+\contentsline {paragraph}{正则化}{50}%
+\contentsline {subsubsection}{\numberline {4.3.8}参数优化}{50}%
+\contentsline {paragraph}{目标}{50}%
+\contentsline {paragraph}{相关概念}{50}%
+\contentsline {paragraph}{问题}{50}%
+\contentsline {paragraph}{跳出局部极小}{50}%
+\contentsline {subsection}{\numberline {4.4}超参数}{51}%
+\contentsline {subsubsection}{\numberline {4.4.1}定义}{51}%
+\contentsline {paragraph}{常见存在于}{51}%
+\contentsline {paragraph}{具体实例}{51}%
+\contentsline {subsubsection}{\numberline {4.4.2}设置方法}{51}%
+\contentsline {subsubsection}{\numberline {4.4.3}超参数搜索一般过程}{52}%
+\contentsline {subsection}{\numberline {4.5}激活函数}{52}%
+\contentsline {subsubsection}{\numberline {4.5.1}问题}{52}%
+\contentsline {subsubsection}{\numberline {4.5.2}常用激活函数}{52}%
+\contentsline {subsubsection}{\numberline {4.5.3}作用}{52}%
+\contentsline {subsubsection}{\numberline {4.5.4}常见激活函数的导数计算}{53}%
+\contentsline {subsubsection}{\numberline {4.5.5}激活函数性质}{54}%
+\contentsline {subsubsection}{\numberline {4.5.6}选择激活函数的策略}{54}%
+\contentsline {subsubsection}{\numberline {4.5.7}ReLu激活函数的优点}{55}%
+\contentsline {subsubsection}{\numberline {4.5.8}Softmax函数}{55}%
+\contentsline {paragraph}{定义}{55}%
+\contentsline {paragraph}{$e$的幂函数的意义}{55}%
+\contentsline {subsection}{\numberline {4.6}Batch Size}{55}%
+\contentsline {subsubsection}{\numberline {4.6.1}为什么需要Batch Size}{55}%
+\contentsline {subsubsection}{\numberline {4.6.2}Batch Size值的选择}{56}%
+\contentsline {subsubsection}{\numberline {4.6.3}增大Batch Size的好处}{56}%
+\contentsline {subsubsection}{\numberline {4.6.4}盲目增大Batch Size的坏处}{56}%
+\contentsline {subsection}{\numberline {4.7}归一化}{57}%
+\contentsline {subsubsection}{\numberline {4.7.1}归一化含义}{57}%
+\contentsline {subsubsection}{\numberline {4.7.2}归一化好处}{57}%
+\contentsline {subsubsection}{\numberline {4.7.3}归一化能提高求解最优解速度的理由}{58}%
+\contentsline {subsubsection}{\numberline {4.7.4}归一化类型}{58}%
+\contentsline {section}{\numberline {5}深度学习}{59}%
+\contentsline {subsection}{\numberline {5.1}为什么需要深度学习}{59}%
+\contentsline {subsubsection}{\numberline {5.1.1}必然性}{59}%
+\contentsline {subsubsection}{\numberline {5.1.2}可行性}{59}%
+\contentsline {subsection}{\numberline {5.2}什么是深度学习}{59}%
+\contentsline {subsubsection}{\numberline {5.2.1}增加神经元数目的神经网络}{59}%
+\contentsline {subsubsection}{\numberline {5.2.2}增加隐含层数量的神经网络}{59}%
+\contentsline {paragraph}{优势}{59}%
+\contentsline {paragraph}{难点}{59}%
+\contentsline {paragraph}{解决办法}{59}%
+\contentsline {subparagraph}{无监督逐层训练}{59}%
+\contentsline {subparagraph}{权值共享：让一组神经元使用相同的连接权}{60}%
+\contentsline {subsection}{\numberline {5.3}深度神经网络难以训练的原因}{60}%
+\contentsline {subsubsection}{\numberline {5.3.1}梯度消失}{60}%
+\contentsline {subsubsection}{\numberline {5.3.2}梯度爆炸}{60}%
+\contentsline {subsubsection}{\numberline {5.3.3}权重矩阵的退化导致模型的有效自由度减少}{60}%
+\contentsline {subsection}{\numberline {5.4}预训练与微调(fine tuning)}{61}%
+\contentsline {subsubsection}{\numberline {5.4.1}深度网络存在问题}{61}%
+\contentsline {subsubsection}{\numberline {5.4.2}解决方法}{62}%
+\contentsline {subsubsection}{\numberline {5.4.3}模型微调fine tuning的定义}{62}%
+\contentsline {subsubsection}{\numberline {5.4.4}微调时网络参数的更新}{62}%
+\contentsline {subsubsection}{\numberline {5.4.5}fine tuning模型的三种状态}{62}%
+\contentsline {subsection}{\numberline {5.5}正则化Dropout}{62}%
+\contentsline {subsubsection}{\numberline {5.5.1}为什么要正则化}{62}%
+\contentsline {subsubsection}{\numberline {5.5.2}理解}{63}%
+\contentsline {subsubsection}{\numberline {5.5.3}工作流程}{63}%
+\contentsline {subsubsection}{\numberline {5.5.4}工作机制}{64}%
+\contentsline {section}{\numberline {6}卷积神经网络}{66}%
+\contentsline {subsection}{\numberline {6.1}特征选择}{66}%
+\contentsline {subsubsection}{\numberline {6.1.1}优化的常见问题}{66}%
+\contentsline {subsubsection}{\numberline {6.1.2}理由}{66}%
+\contentsline {subsubsection}{\numberline {6.1.3}本质}{66}%
+\contentsline {subsubsection}{\numberline {6.1.4}作用}{66}%
+\contentsline {subsubsection}{\numberline {6.1.5}具体方法}{66}%
+\contentsline {subsection}{\numberline {6.2}卷积}{67}%
+\contentsline {subsubsection}{\numberline {6.2.1}卷积公式}{67}%
+\contentsline {subsubsection}{\numberline {6.2.2}公式理解}{67}%
+\contentsline {subsubsection}{\numberline {6.2.3}例子：信号分析}{68}%
+\contentsline {subsection}{\numberline {6.3}卷积神经网络的结构}{69}%
+\contentsline {subsubsection}{\numberline {6.3.1}全连接层}{69}%
+\contentsline {subsubsection}{\numberline {6.3.2}采样层}{70}%
+\contentsline {subsubsection}{\numberline {6.3.3}卷积层}{70}%
+\contentsline {subsubsection}{\numberline {6.3.4}级联分类器}{71}%
+\contentsline {subsection}{\numberline {6.4}卷积层：提取特征}{72}%
+\contentsline {subsubsection}{\numberline {6.4.1}图示}{72}%
+\contentsline {subsubsection}{\numberline {6.4.2}输出}{73}%
+\contentsline {subsubsection}{\numberline {6.4.3}卷积顺序}{73}%
+\contentsline {subsubsection}{\numberline {6.4.4}补0}{74}%
+\contentsline {paragraph}{作用}{74}%
+\contentsline {paragraph}{好处}{74}%
+\contentsline {subsection}{\numberline {6.5}采样层：特征选择}{74}%
+\contentsline {subsubsection}{\numberline {6.5.1}示例：Maxpooling}{74}%
+\contentsline {subsubsection}{\numberline {6.5.2}好处}{75}%
+\contentsline {subsubsection}{\numberline {6.5.3}性质}{75}%
+\contentsline {subsection}{\numberline {6.6}全连接层：进行分类}{76}%
+\contentsline {subsubsection}{\numberline {6.6.1}图示}{76}%
+\contentsline {subsubsection}{\numberline {6.6.2}转化方法}{76}%
+\contentsline {subsubsection}{\numberline {6.6.3}作用}{77}%
+\contentsline {subsubsection}{\numberline {6.6.4}对模型的影响因素}{77}%
+\contentsline {subsection}{\numberline {6.7}局部响应归一化作用}{77}%
+\contentsline {subsubsection}{\numberline {6.7.1}理解局部响应归一化}{77}%
+\contentsline {subsubsection}{\numberline {6.7.2}实例}{78}%
+\contentsline {subsection}{\numberline {6.8}批归一化BN}{79}%
+\contentsline {subsubsection}{\numberline {6.8.1}优点}{80}%
+\contentsline {subsubsection}{\numberline {6.8.2}算法流程}{80}%
