@@ -288,3 +288,4 @@
 \contentsline {subsection}{\numberline {6.8}批归一化BN}{79}%
 \contentsline {subsubsection}{\numberline {6.8.1}优点}{80}%
 \contentsline {subsubsection}{\numberline {6.8.2}算法流程}{80}%
+\contentsline {subsection}{\numberline {6.9}生成对抗网络}{82}%

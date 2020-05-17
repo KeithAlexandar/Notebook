@@ -1762,9 +1762,45 @@ $n=2$的值表示在计算位置$(i,x,y)$处的归一化值时，我们考虑上
 此时，均值$ \mu_{\beta} $是计算所有batch$ \mu_{\beta} $值的平均值得到，标准差$ \sigma_{\beta}^2 $采用每个batch$ \sigma_{\beta}^2 $的无偏估计得到。
 \par 除此以外，$\gamma$和$\beta$分别是用来控制平均值和方差的参数。
 
+\newpage
+\subsection{生成对抗网络}
+\begin{algorithm}[htb]  
+	\caption{Mini-batch随机梯度下降算法。其中k为超参数，代表着判别器所需的步骤数。此处为了减轻训练负担，取k=1}  
+	\begin{algorithmic}[1]  	  
+	\For{训练迭代次数}
+		\For{k步}
+			\State 从之前的噪声$p_g (z)$中取出minibatch所需的m个噪声样例$\{z^{(1)},...,z^{(m)} \}$
+			\State 从数据生成分布$p_{data}(x)$中取出minibatch所需的m个数据样例$\{x^{(1)},...,x^{(m)} \}$
+			\State 通过随机梯度下降算法更新判别器参数：$$\nabla_{\theta_d} \frac{1}{m} \sum_{i=1}^m [\log D(x^{(i)}) + \log (1-D(G(z^{(i)})))] $$
+		\EndFor
+		\State 从之前的噪声$p_g (z)$中取出minibatch所需的m个噪声样例$\{z^{(1)},...,z^{(m)} \}$
+		\State 通过随机梯度下降算法更新生成器参数：$$\nabla_{\theta_d} \frac{1}{m} \sum_{i=1}^m \log (1-D(G(z^{(i)})))$$
+	\EndFor
+	\\
+	基于梯度的更新可以使用任何标准的基于梯度的学习规则。此处使用的是momentum算法。
+    \end{algorithmic}   
+\end{algorithm}  
 
-
-
-
+\begin{algorithm}[htb]  
+	\caption{WGAN，以下参数中：$\alpha=0.00005,c=0.01,m=64,n_{critic}=5$}  
+	\begin{algorithmic}[1]
+		\Require  
+		学习率$\alpha$,截断常数c,批大小m,生成器每次迭代的迭代数量$n_{critic}$  
+	  	\Require  
+	  	起始critic参数值$\omega_0$，初始生成器参数值$\theta_0$  	  
+	\While{$\theta$没有收敛}
+		\For{$t=0,...,n_{critic}$}
+			\State 从真实数据$P_r$中取出所需的m个数据样例$\{x^{(1)},...,x^{(m)} \}$
+			\State 从之前的样例$p(z)$中取出所需的m个样例$\{z^{(1)},...,z^{(m)} \}$
+			\State $g_{\omega} \gets \nabla_\omega [\frac{1}{m}\sum_{i=1}^m f_\omega(x^{(i)})-\frac{1}{m}\sum_{i=1}^m f_\omega(g_\theta (z^{(i)}))]$
+			\State $\omega \gets \omega + \alpha \cdot RMSProp(\omega,g_\omega)$
+			\State $\omega \gets clip(\omega, -c, c)$
+		\EndFor
+		\State 从之前的样例$p_g (z)$中取出所需的m个样例$\{z^{(1)},...,z^{(m)} \}$
+		\State $g_{\theta} \gets \nabla_\theta \frac{1}{m}\sum_{i=1}^m f_\omega(g_\theta (z^{(i)}))$
+		\State $\theta \gets \theta + \alpha \cdot RMSProp(\theta,g_\theta)$
+	\EndWhile
+	\end{algorithmic}   
+\end{algorithm}  
 
 \end{document}
